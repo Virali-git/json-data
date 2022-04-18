@@ -33,12 +33,5 @@
 		"description": "juice is a good source of vitamin B12",
 		"Price": "$6,591",
 		"Image": "/grape juice.jpeg"
-	},
-	{
-        "id" : "6",
-		"title": "watermelon juice",
-		"description": "juice is a good source of vitamin B12",
-		"Price": "$6,569",
-		"Image": "/watermelon.jpeg"
 	}
 ]
